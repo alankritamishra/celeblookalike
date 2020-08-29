@@ -1,5 +1,5 @@
-# celeblookalike
-This model predicts which celebrity you matches the most
+# Bollywood Celeb look alike
+This model predicts which bollywood celebrity you matches the most
 # Download links
 Dataset- https://drive.google.com/file/d/1LiQFuWVvabOmbeHMvYMFSMCOQmADjQ-P/view?usp=sharing
 
