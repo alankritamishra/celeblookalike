@@ -1,5 +1,9 @@
 # celeblookalike
 This model predicts which celebrity you matches the most
+# Download links
+Dataset- https://drive.google.com/file/d/1LiQFuWVvabOmbeHMvYMFSMCOQmADjQ-P/view?usp=sharing
+
+Facenet model- https://drive.google.com/file/d/1u-O6r3niLqfO2cUTa5M9ye-rQPfl5PHw/view?usp=sharing
 # Project Description:
 In this project I've used MTCNN fpr face detection,
 Facenet model for getting embedding of image
