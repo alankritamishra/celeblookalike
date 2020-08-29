@@ -14,4 +14,3 @@ Proof testing on celebrity images:-
 ![SREEENSHGv](https://user-images.githubusercontent.com/66169287/91632044-c5093700-e9fb-11ea-9032-3c0e5888a26b.png)
 ![projectss](https://user-images.githubusercontent.com/66169287/91632050-cf2b3580-e9fb-11ea-9526-d4750bf92190.png)
 ![ScreenShotssss](https://user-images.githubusercontent.com/66169287/91632041-bfabec80-e9fb-11ea-816f-2e3556abc2cb.png)
-
